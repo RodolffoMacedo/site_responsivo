@@ -42,7 +42,7 @@ Página elaborada para treinamento de funções para adequação mobile das pág
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/E0MOakcgNFzBRk6eoGf6Ed/Cheesecake-%E2%80%A2-Projeto-Explorer-(Community)?node-id=1%3A39972&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através do Figma. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
