@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Página elaborada para treinamento de funções para adequação mobile das páginas Web.
 
-- [Acesse o projeto finalizado, online](https://rodolffomacedo.github.io/site_responsivo/)
+
 
 ![image](https://github.com/RodolffoMacedo/site_responsivo/assets/146378931/dd061502-0984-4a27-8432-21508acf2d1d)
 
