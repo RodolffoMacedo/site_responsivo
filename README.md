@@ -34,14 +34,16 @@ Página elaborada para treinamento de funções para adequação mobile das pág
 
 - [Acesse o projeto finalizado, online](https://rodolffomacedo.github.io/site_responsivo/)
 
- ![image](https://github.com/RodolffoMacedo/site_responsivo/assets/146378931/92b73971-d6cf-4c54-8f32-829ba23a7dfe)
+![image](https://github.com/RodolffoMacedo/site_responsivo/assets/146378931/dd061502-0984-4a27-8432-21508acf2d1d)
+
+![image](https://github.com/RodolffoMacedo/site_responsivo/assets/146378931/b3680e26-b244-46a2-bf91-f5aeea0eb55b)
 
 
 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/zglW8qRMqiTYG7aeUdwEHK/Explorer-Stage-03-Projeto-02-Copy?fuid=1288975106851314521). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/E0MOakcgNFzBRk6eoGf6Ed/Cheesecake-%E2%80%A2-Projeto-Explorer-(Community)?node-id=1%3A39972&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
